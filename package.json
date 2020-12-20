@@ -1,0 +1,16 @@
+{
+  "name": "portfolioweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepages":"https://github.com/JanetHuang-78/MyPortfolio"
+}
